@@ -1,2 +1,6 @@
 We are now at branch dev.
+<<<<<<< HEAD
 We are now at master.
+=======
+We update secondly this file in dev.
+>>>>>>> dev
